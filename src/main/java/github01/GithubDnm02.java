@@ -1,2 +1,10 @@
-package github01;public class GithubDnm02 {
+package github01;
+
+public class GithubDnm02 {
+    public static void main(String[] args) {
+        int a =5;
+        int b= 5;
+        System.out.println(a*b);
+        System.out.println("bu çarpma işlemidir");
+    }
 }
